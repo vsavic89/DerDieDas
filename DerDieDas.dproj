@@ -325,14 +325,14 @@
                 </Excluded_Packages>
             </Delphi.Personality>
             <Deployment Version="3">
-                <DeployFile LocalName="zajebancija\104.mp3" Configuration="Debug" Class="File">
+                <DeployFile LocalName="sounds\104.mp3" Configuration="Debug" Class="File">
                     <Platform Name="Android">
                         <RemoteDir>assets\internal</RemoteDir>
                         <RemoteName>104.mp3</RemoteName>
                         <Overwrite>true</Overwrite>
                     </Platform>
                 </DeployFile>
-                <DeployFile LocalName="zajebancija\111.mp3" Configuration="Debug" Class="File">
+                <DeployFile LocalName="sounds\111.mp3" Configuration="Debug" Class="File">
                     <Platform Name="Android">
                         <RemoteDir>assets\internal</RemoteDir>
                         <RemoteName>111.mp3</RemoteName>
@@ -351,21 +351,21 @@
                         <Overwrite>true</Overwrite>
                     </Platform>
                 </DeployFile>
-                <DeployFile LocalName="zajebancija\4.mp3" Configuration="Debug" Class="File">
+                <DeployFile LocalName="sounds\4.mp3" Configuration="Debug" Class="File">
                     <Platform Name="Android">
                         <RemoteDir>assets\internal</RemoteDir>
                         <RemoteName>4.mp3</RemoteName>
                         <Overwrite>true</Overwrite>
                     </Platform>
                 </DeployFile>
-                <DeployFile LocalName="zajebancija\14.mp3" Configuration="Debug" Class="File">
+                <DeployFile LocalName="sounds\14.mp3" Configuration="Debug" Class="File">
                     <Platform Name="Android">
                         <RemoteDir>assets\internal</RemoteDir>
                         <RemoteName>14.mp3</RemoteName>
                         <Overwrite>true</Overwrite>
                     </Platform>
                 </DeployFile>
-                <DeployFile LocalName="zajebancija\101.mp3" Configuration="Debug" Class="File">
+                <DeployFile LocalName="sounds\101.mp3" Configuration="Debug" Class="File">
                     <Platform Name="Android">
                         <RemoteDir>assets\internal</RemoteDir>
                         <RemoteName>101.mp3</RemoteName>
@@ -384,21 +384,21 @@
                         <Overwrite>true</Overwrite>
                     </Platform>
                 </DeployFile>
-                <DeployFile LocalName="zajebancija\10.mp3" Configuration="Debug" Class="File">
+                <DeployFile LocalName="sounds\10.mp3" Configuration="Debug" Class="File">
                     <Platform Name="Android">
                         <RemoteDir>assets\internal</RemoteDir>
                         <RemoteName>10.mp3</RemoteName>
                         <Overwrite>true</Overwrite>
                     </Platform>
                 </DeployFile>
-                <DeployFile LocalName="zajebancija\105.mp3" Configuration="Debug" Class="File">
+                <DeployFile LocalName="sounds\105.mp3" Configuration="Debug" Class="File">
                     <Platform Name="Android">
                         <RemoteDir>assets\internal</RemoteDir>
                         <RemoteName>105.mp3</RemoteName>
                         <Overwrite>true</Overwrite>
                     </Platform>
                 </DeployFile>
-                <DeployFile LocalName="zajebancija\5.mp3" Configuration="Debug" Class="File">
+                <DeployFile LocalName="sounds\5.mp3" Configuration="Debug" Class="File">
                     <Platform Name="Android">
                         <RemoteDir>assets\internal</RemoteDir>
                         <RemoteName>5.mp3</RemoteName>
@@ -411,7 +411,7 @@
                         <Overwrite>true</Overwrite>
                     </Platform>
                 </DeployFile>
-                <DeployFile LocalName="zajebancija\108.mp3" Configuration="Debug" Class="File">
+                <DeployFile LocalName="sounds\108.mp3" Configuration="Debug" Class="File">
                     <Platform Name="Android">
                         <RemoteDir>assets\internal</RemoteDir>
                         <RemoteName>108.mp3</RemoteName>
@@ -445,7 +445,7 @@
                         <Overwrite>true</Overwrite>
                     </Platform>
                 </DeployFile>
-                <DeployFile LocalName="zajebancija\15.mp3" Configuration="Debug" Class="File">
+                <DeployFile LocalName="sounds\15.mp3" Configuration="Debug" Class="File">
                     <Platform Name="Android">
                         <RemoteDir>assets\internal</RemoteDir>
                         <RemoteName>15.mp3</RemoteName>
@@ -475,42 +475,42 @@
                         <Overwrite>true</Overwrite>
                     </Platform>
                 </DeployFile>
-                <DeployFile LocalName="zajebancija\1.mp3" Configuration="Debug" Class="File">
+                <DeployFile LocalName="sounds\1.mp3" Configuration="Debug" Class="File">
                     <Platform Name="Android">
                         <RemoteDir>assets\internal</RemoteDir>
                         <RemoteName>1.mp3</RemoteName>
                         <Overwrite>true</Overwrite>
                     </Platform>
                 </DeployFile>
-                <DeployFile LocalName="zajebancija\107.mp3" Configuration="Debug" Class="File">
+                <DeployFile LocalName="sounds\107.mp3" Configuration="Debug" Class="File">
                     <Platform Name="Android">
                         <RemoteDir>assets\internal</RemoteDir>
                         <RemoteName>107.mp3</RemoteName>
                         <Overwrite>true</Overwrite>
                     </Platform>
                 </DeployFile>
-                <DeployFile LocalName="zajebancija\13.mp3" Configuration="Debug" Class="File">
+                <DeployFile LocalName="sounds\13.mp3" Configuration="Debug" Class="File">
                     <Platform Name="Android">
                         <RemoteDir>assets\internal</RemoteDir>
                         <RemoteName>13.mp3</RemoteName>
                         <Overwrite>true</Overwrite>
                     </Platform>
                 </DeployFile>
-                <DeployFile LocalName="zajebancija\11.mp3" Configuration="Debug" Class="File">
+                <DeployFile LocalName="sounds\11.mp3" Configuration="Debug" Class="File">
                     <Platform Name="Android">
                         <RemoteDir>assets\internal</RemoteDir>
                         <RemoteName>11.mp3</RemoteName>
                         <Overwrite>true</Overwrite>
                     </Platform>
                 </DeployFile>
-                <DeployFile LocalName="zajebancija\9.mp3" Configuration="Debug" Class="File">
+                <DeployFile LocalName="sounds\9.mp3" Configuration="Debug" Class="File">
                     <Platform Name="Android">
                         <RemoteDir>assets\internal</RemoteDir>
                         <RemoteName>9.mp3</RemoteName>
                         <Overwrite>true</Overwrite>
                     </Platform>
                 </DeployFile>
-                <DeployFile LocalName="zajebancija\113.mp3" Configuration="Debug" Class="File">
+                <DeployFile LocalName="sounds\113.mp3" Configuration="Debug" Class="File">
                     <Platform Name="Android">
                         <RemoteDir>assets\internal</RemoteDir>
                         <RemoteName>113.mp3</RemoteName>
@@ -523,7 +523,7 @@
                         <Overwrite>true</Overwrite>
                     </Platform>
                 </DeployFile>
-                <DeployFile LocalName="zajebancija\12.mp3" Configuration="Debug" Class="File">
+                <DeployFile LocalName="sounds\12.mp3" Configuration="Debug" Class="File">
                     <Platform Name="Android">
                         <RemoteDir>assets\internal</RemoteDir>
                         <RemoteName>12.mp3</RemoteName>
@@ -536,7 +536,7 @@
                         <Overwrite>true</Overwrite>
                     </Platform>
                 </DeployFile>
-                <DeployFile LocalName="zajebancija\109.mp3" Configuration="Debug" Class="File">
+                <DeployFile LocalName="sounds\109.mp3" Configuration="Debug" Class="File">
                     <Platform Name="Android">
                         <RemoteDir>assets\internal</RemoteDir>
                         <RemoteName>109.mp3</RemoteName>
@@ -585,28 +585,28 @@
                         <Overwrite>true</Overwrite>
                     </Platform>
                 </DeployFile>
-                <DeployFile LocalName="zajebancija\3.mp3" Configuration="Debug" Class="File">
+                <DeployFile LocalName="sounds\3.mp3" Configuration="Debug" Class="File">
                     <Platform Name="Android">
                         <RemoteDir>assets\internal</RemoteDir>
                         <RemoteName>3.mp3</RemoteName>
                         <Overwrite>true</Overwrite>
                     </Platform>
                 </DeployFile>
-                <DeployFile LocalName="zajebancija\110.mp3" Configuration="Debug" Class="File">
+                <DeployFile LocalName="sounds\110.mp3" Configuration="Debug" Class="File">
                     <Platform Name="Android">
                         <RemoteDir>assets\internal</RemoteDir>
                         <RemoteName>110.mp3</RemoteName>
                         <Overwrite>true</Overwrite>
                     </Platform>
                 </DeployFile>
-                <DeployFile LocalName="zajebancija\8.mp3" Configuration="Debug" Class="File">
+                <DeployFile LocalName="sounds\8.mp3" Configuration="Debug" Class="File">
                     <Platform Name="Android">
                         <RemoteDir>assets\internal</RemoteDir>
                         <RemoteName>8.mp3</RemoteName>
                         <Overwrite>true</Overwrite>
                     </Platform>
                 </DeployFile>
-                <DeployFile LocalName="zajebancija\7.mp3" Configuration="Debug" Class="File">
+                <DeployFile LocalName="sounds\7.mp3" Configuration="Debug" Class="File">
                     <Platform Name="Android">
                         <RemoteDir>assets\internal</RemoteDir>
                         <RemoteName>7.mp3</RemoteName>
@@ -619,49 +619,49 @@
                         <Overwrite>true</Overwrite>
                     </Platform>
                 </DeployFile>
-                <DeployFile LocalName="zajebancija\2.mp3" Configuration="Debug" Class="File">
+                <DeployFile LocalName="sounds\2.mp3" Configuration="Debug" Class="File">
                     <Platform Name="Android">
                         <RemoteDir>assets\internal</RemoteDir>
                         <RemoteName>2.mp3</RemoteName>
                         <Overwrite>true</Overwrite>
                     </Platform>
                 </DeployFile>
-                <DeployFile LocalName="zajebancija\106.mp3" Configuration="Debug" Class="File">
+                <DeployFile LocalName="sounds\106.mp3" Configuration="Debug" Class="File">
                     <Platform Name="Android">
                         <RemoteDir>assets\internal</RemoteDir>
                         <RemoteName>106.mp3</RemoteName>
                         <Overwrite>true</Overwrite>
                     </Platform>
                 </DeployFile>
-                <DeployFile LocalName="zajebancija\6.mp3" Configuration="Debug" Class="File">
+                <DeployFile LocalName="sounds\6.mp3" Configuration="Debug" Class="File">
                     <Platform Name="Android">
                         <RemoteDir>assets\internal</RemoteDir>
                         <RemoteName>6.mp3</RemoteName>
                         <Overwrite>true</Overwrite>
                     </Platform>
                 </DeployFile>
-                <DeployFile LocalName="zajebancija\112.mp3" Configuration="Debug" Class="File">
+                <DeployFile LocalName="sounds\112.mp3" Configuration="Debug" Class="File">
                     <Platform Name="Android">
                         <RemoteDir>assets\internal</RemoteDir>
                         <RemoteName>112.mp3</RemoteName>
                         <Overwrite>true</Overwrite>
                     </Platform>
                 </DeployFile>
-                <DeployFile LocalName="zajebancija\103.mp3" Configuration="Debug" Class="File">
+                <DeployFile LocalName="sounds\103.mp3" Configuration="Debug" Class="File">
                     <Platform Name="Android">
                         <RemoteDir>assets\internal</RemoteDir>
                         <RemoteName>103.mp3</RemoteName>
                         <Overwrite>true</Overwrite>
                     </Platform>
                 </DeployFile>
-                <DeployFile LocalName="zajebancija\102.mp3" Configuration="Debug" Class="File">
+                <DeployFile LocalName="sounds\102.mp3" Configuration="Debug" Class="File">
                     <Platform Name="Android">
                         <RemoteDir>assets\internal</RemoteDir>
                         <RemoteName>102.mp3</RemoteName>
                         <Overwrite>true</Overwrite>
                     </Platform>
                 </DeployFile>
-                <DeployFile LocalName="zajebancija\100.mp3" Configuration="Debug" Class="File">
+                <DeployFile LocalName="sounds\100.mp3" Configuration="Debug" Class="File">
                     <Platform Name="Android">
                         <RemoteDir>assets\internal</RemoteDir>
                         <RemoteName>100.mp3</RemoteName>

@@ -42,7 +42,7 @@
     <ItemGroup Condition="'$(Platform)'=='iOSDevice64'"/>
     <ItemGroup Condition="'$(Platform)'=='iOSDevice32'"/>
     <ItemGroup Condition="'$(Platform)'=='Android'">
-        <DeployFile Include="zajebancija\104.mp3" Condition="'$(Config)'=='Debug'">
+        <DeployFile Include="sounds\104.mp3" Condition="'$(Config)'=='Debug'">
             <RemoteDir>DerDieDas\assets\internal\</RemoteDir>
             <RemoteName>104.mp3</RemoteName>
             <DeployClass>File</DeployClass>
@@ -51,7 +51,7 @@
             <RemoteCommand/>
             <Overwrite>True</Overwrite>
         </DeployFile>
-        <DeployFile Include="zajebancija\111.mp3" Condition="'$(Config)'=='Debug'">
+        <DeployFile Include="sounds\111.mp3" Condition="'$(Config)'=='Debug'">
             <RemoteDir>DerDieDas\assets\internal\</RemoteDir>
             <RemoteName>111.mp3</RemoteName>
             <DeployClass>File</DeployClass>
@@ -60,7 +60,7 @@
             <RemoteCommand/>
             <Overwrite>True</Overwrite>
         </DeployFile>
-        <DeployFile Include="zajebancija\4.mp3" Condition="'$(Config)'=='Debug'">
+        <DeployFile Include="sounds\4.mp3" Condition="'$(Config)'=='Debug'">
             <RemoteDir>DerDieDas\assets\internal\</RemoteDir>
             <RemoteName>4.mp3</RemoteName>
             <DeployClass>File</DeployClass>
@@ -69,7 +69,7 @@
             <RemoteCommand/>
             <Overwrite>True</Overwrite>
         </DeployFile>
-        <DeployFile Include="zajebancija\14.mp3" Condition="'$(Config)'=='Debug'">
+        <DeployFile Include="sounds\14.mp3" Condition="'$(Config)'=='Debug'">
             <RemoteDir>DerDieDas\assets\internal\</RemoteDir>
             <RemoteName>14.mp3</RemoteName>
             <DeployClass>File</DeployClass>
@@ -78,7 +78,7 @@
             <RemoteCommand/>
             <Overwrite>True</Overwrite>
         </DeployFile>
-        <DeployFile Include="zajebancija\101.mp3" Condition="'$(Config)'=='Debug'">
+        <DeployFile Include="sounds\101.mp3" Condition="'$(Config)'=='Debug'">
             <RemoteDir>DerDieDas\assets\internal\</RemoteDir>
             <RemoteName>101.mp3</RemoteName>
             <DeployClass>File</DeployClass>
@@ -96,7 +96,7 @@
             <RemoteCommand/>
             <Overwrite>True</Overwrite>
         </DeployFile>
-        <DeployFile Include="zajebancija\10.mp3" Condition="'$(Config)'=='Debug'">
+        <DeployFile Include="sounds\10.mp3" Condition="'$(Config)'=='Debug'">
             <RemoteDir>DerDieDas\assets\internal\</RemoteDir>
             <RemoteName>10.mp3</RemoteName>
             <DeployClass>File</DeployClass>
@@ -114,7 +114,7 @@
             <RemoteCommand/>
             <Overwrite>True</Overwrite>
         </DeployFile>
-        <DeployFile Include="zajebancija\105.mp3" Condition="'$(Config)'=='Debug'">
+        <DeployFile Include="sounds\105.mp3" Condition="'$(Config)'=='Debug'">
             <RemoteDir>DerDieDas\assets\internal\</RemoteDir>
             <RemoteName>105.mp3</RemoteName>
             <DeployClass>File</DeployClass>
@@ -123,7 +123,7 @@
             <RemoteCommand/>
             <Overwrite>True</Overwrite>
         </DeployFile>
-        <DeployFile Include="zajebancija\5.mp3" Condition="'$(Config)'=='Debug'">
+        <DeployFile Include="sounds\5.mp3" Condition="'$(Config)'=='Debug'">
             <RemoteDir>DerDieDas\assets\internal\</RemoteDir>
             <RemoteName>5.mp3</RemoteName>
             <DeployClass>File</DeployClass>
@@ -141,7 +141,7 @@
             <RemoteCommand/>
             <Overwrite>True</Overwrite>
         </DeployFile>
-        <DeployFile Include="zajebancija\108.mp3" Condition="'$(Config)'=='Debug'">
+        <DeployFile Include="sounds\108.mp3" Condition="'$(Config)'=='Debug'">
             <RemoteDir>DerDieDas\assets\internal\</RemoteDir>
             <RemoteName>108.mp3</RemoteName>
             <DeployClass>File</DeployClass>
@@ -168,7 +168,7 @@
             <RemoteCommand/>
             <Overwrite>True</Overwrite>
         </DeployFile>
-        <DeployFile Include="zajebancija\15.mp3" Condition="'$(Config)'=='Debug'">
+        <DeployFile Include="sounds\15.mp3" Condition="'$(Config)'=='Debug'">
             <RemoteDir>DerDieDas\assets\internal\</RemoteDir>
             <RemoteName>15.mp3</RemoteName>
             <DeployClass>File</DeployClass>
@@ -177,7 +177,7 @@
             <RemoteCommand/>
             <Overwrite>True</Overwrite>
         </DeployFile>
-        <DeployFile Include="zajebancija\1.mp3" Condition="'$(Config)'=='Debug'">
+        <DeployFile Include="sounds\1.mp3" Condition="'$(Config)'=='Debug'">
             <RemoteDir>DerDieDas\assets\internal\</RemoteDir>
             <RemoteName>1.mp3</RemoteName>
             <DeployClass>File</DeployClass>
@@ -186,7 +186,7 @@
             <RemoteCommand/>
             <Overwrite>True</Overwrite>
         </DeployFile>
-        <DeployFile Include="zajebancija\107.mp3" Condition="'$(Config)'=='Debug'">
+        <DeployFile Include="sounds\107.mp3" Condition="'$(Config)'=='Debug'">
             <RemoteDir>DerDieDas\assets\internal\</RemoteDir>
             <RemoteName>107.mp3</RemoteName>
             <DeployClass>File</DeployClass>
@@ -195,7 +195,7 @@
             <RemoteCommand/>
             <Overwrite>True</Overwrite>
         </DeployFile>
-        <DeployFile Include="zajebancija\13.mp3" Condition="'$(Config)'=='Debug'">
+        <DeployFile Include="sounds\13.mp3" Condition="'$(Config)'=='Debug'">
             <RemoteDir>DerDieDas\assets\internal\</RemoteDir>
             <RemoteName>13.mp3</RemoteName>
             <DeployClass>File</DeployClass>
@@ -204,7 +204,7 @@
             <RemoteCommand/>
             <Overwrite>True</Overwrite>
         </DeployFile>
-        <DeployFile Include="zajebancija\11.mp3" Condition="'$(Config)'=='Debug'">
+        <DeployFile Include="sounds\11.mp3" Condition="'$(Config)'=='Debug'">
             <RemoteDir>DerDieDas\assets\internal\</RemoteDir>
             <RemoteName>11.mp3</RemoteName>
             <DeployClass>File</DeployClass>
@@ -213,7 +213,7 @@
             <RemoteCommand/>
             <Overwrite>True</Overwrite>
         </DeployFile>
-        <DeployFile Include="zajebancija\9.mp3" Condition="'$(Config)'=='Debug'">
+        <DeployFile Include="sounds\9.mp3" Condition="'$(Config)'=='Debug'">
             <RemoteDir>DerDieDas\assets\internal\</RemoteDir>
             <RemoteName>9.mp3</RemoteName>
             <DeployClass>File</DeployClass>
@@ -222,7 +222,7 @@
             <RemoteCommand/>
             <Overwrite>True</Overwrite>
         </DeployFile>
-        <DeployFile Include="zajebancija\113.mp3" Condition="'$(Config)'=='Debug'">
+        <DeployFile Include="sounds\113.mp3" Condition="'$(Config)'=='Debug'">
             <RemoteDir>DerDieDas\assets\internal\</RemoteDir>
             <RemoteName>113.mp3</RemoteName>
             <DeployClass>File</DeployClass>
@@ -240,7 +240,7 @@
             <RemoteCommand/>
             <Overwrite>True</Overwrite>
         </DeployFile>
-        <DeployFile Include="zajebancija\12.mp3" Condition="'$(Config)'=='Debug'">
+        <DeployFile Include="sounds\12.mp3" Condition="'$(Config)'=='Debug'">
             <RemoteDir>DerDieDas\assets\internal\</RemoteDir>
             <RemoteName>12.mp3</RemoteName>
             <DeployClass>File</DeployClass>
@@ -267,7 +267,7 @@
             <RemoteCommand/>
             <Overwrite>True</Overwrite>
         </DeployFile>
-        <DeployFile Include="zajebancija\109.mp3" Condition="'$(Config)'=='Debug'">
+        <DeployFile Include="sounds\109.mp3" Condition="'$(Config)'=='Debug'">
             <RemoteDir>DerDieDas\assets\internal\</RemoteDir>
             <RemoteName>109.mp3</RemoteName>
             <DeployClass>File</DeployClass>
@@ -321,7 +321,7 @@
             <RemoteCommand/>
             <Overwrite>True</Overwrite>
         </DeployFile>
-        <DeployFile Include="zajebancija\3.mp3" Condition="'$(Config)'=='Debug'">
+        <DeployFile Include="sounds\3.mp3" Condition="'$(Config)'=='Debug'">
             <RemoteDir>DerDieDas\assets\internal\</RemoteDir>
             <RemoteName>3.mp3</RemoteName>
             <DeployClass>File</DeployClass>
@@ -330,7 +330,7 @@
             <RemoteCommand/>
             <Overwrite>True</Overwrite>
         </DeployFile>
-        <DeployFile Include="zajebancija\110.mp3" Condition="'$(Config)'=='Debug'">
+        <DeployFile Include="sounds\110.mp3" Condition="'$(Config)'=='Debug'">
             <RemoteDir>DerDieDas\assets\internal\</RemoteDir>
             <RemoteName>110.mp3</RemoteName>
             <DeployClass>File</DeployClass>
@@ -339,7 +339,7 @@
             <RemoteCommand/>
             <Overwrite>True</Overwrite>
         </DeployFile>
-        <DeployFile Include="zajebancija\8.mp3" Condition="'$(Config)'=='Debug'">
+        <DeployFile Include="sounds\8.mp3" Condition="'$(Config)'=='Debug'">
             <RemoteDir>DerDieDas\assets\internal\</RemoteDir>
             <RemoteName>8.mp3</RemoteName>
             <DeployClass>File</DeployClass>
@@ -348,7 +348,7 @@
             <RemoteCommand/>
             <Overwrite>True</Overwrite>
         </DeployFile>
-        <DeployFile Include="zajebancija\7.mp3" Condition="'$(Config)'=='Debug'">
+        <DeployFile Include="sounds\7.mp3" Condition="'$(Config)'=='Debug'">
             <RemoteDir>DerDieDas\assets\internal\</RemoteDir>
             <RemoteName>7.mp3</RemoteName>
             <DeployClass>File</DeployClass>
@@ -375,7 +375,7 @@
             <RemoteCommand/>
             <Overwrite>True</Overwrite>
         </DeployFile>
-        <DeployFile Include="zajebancija\2.mp3" Condition="'$(Config)'=='Debug'">
+        <DeployFile Include="sounds\2.mp3" Condition="'$(Config)'=='Debug'">
             <RemoteDir>DerDieDas\assets\internal\</RemoteDir>
             <RemoteName>2.mp3</RemoteName>
             <DeployClass>File</DeployClass>
@@ -394,7 +394,7 @@
             <Overwrite>True</Overwrite>
             <Required>True</Required>
         </DeployFile>
-        <DeployFile Include="zajebancija\106.mp3" Condition="'$(Config)'=='Debug'">
+        <DeployFile Include="sounds\106.mp3" Condition="'$(Config)'=='Debug'">
             <RemoteDir>DerDieDas\assets\internal\</RemoteDir>
             <RemoteName>106.mp3</RemoteName>
             <DeployClass>File</DeployClass>
@@ -412,7 +412,7 @@
             <RemoteCommand/>
             <Overwrite>True</Overwrite>
         </DeployFile>
-        <DeployFile Include="zajebancija\6.mp3" Condition="'$(Config)'=='Debug'">
+        <DeployFile Include="sounds\6.mp3" Condition="'$(Config)'=='Debug'">
             <RemoteDir>DerDieDas\assets\internal\</RemoteDir>
             <RemoteName>6.mp3</RemoteName>
             <DeployClass>File</DeployClass>
@@ -421,7 +421,7 @@
             <RemoteCommand/>
             <Overwrite>True</Overwrite>
         </DeployFile>
-        <DeployFile Include="zajebancija\112.mp3" Condition="'$(Config)'=='Debug'">
+        <DeployFile Include="sounds\112.mp3" Condition="'$(Config)'=='Debug'">
             <RemoteDir>DerDieDas\assets\internal\</RemoteDir>
             <RemoteName>112.mp3</RemoteName>
             <DeployClass>File</DeployClass>
@@ -430,7 +430,7 @@
             <RemoteCommand/>
             <Overwrite>True</Overwrite>
         </DeployFile>
-        <DeployFile Include="zajebancija\103.mp3" Condition="'$(Config)'=='Debug'">
+        <DeployFile Include="sounds\103.mp3" Condition="'$(Config)'=='Debug'">
             <RemoteDir>DerDieDas\assets\internal\</RemoteDir>
             <RemoteName>103.mp3</RemoteName>
             <DeployClass>File</DeployClass>
@@ -439,7 +439,7 @@
             <RemoteCommand/>
             <Overwrite>True</Overwrite>
         </DeployFile>
-        <DeployFile Include="zajebancija\102.mp3" Condition="'$(Config)'=='Debug'">
+        <DeployFile Include="sounds\102.mp3" Condition="'$(Config)'=='Debug'">
             <RemoteDir>DerDieDas\assets\internal\</RemoteDir>
             <RemoteName>102.mp3</RemoteName>
             <DeployClass>File</DeployClass>
@@ -448,7 +448,7 @@
             <RemoteCommand/>
             <Overwrite>True</Overwrite>
         </DeployFile>
-        <DeployFile Include="zajebancija\100.mp3" Condition="'$(Config)'=='Debug'">
+        <DeployFile Include="sounds\100.mp3" Condition="'$(Config)'=='Debug'">
             <RemoteDir>DerDieDas\assets\internal\</RemoteDir>
             <RemoteName>100.mp3</RemoteName>
             <DeployClass>File</DeployClass>
