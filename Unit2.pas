@@ -203,8 +203,6 @@ begin
   dblUspesnost := roundto((intBrTacnihOdgovora/intBrPitanja)*100,-2);
   label2.Text := 'Skor: '+IntToStr(intBrTacnihOdgovora)+'/'+inttostr(intBrPitanja)+' ('+floattostr(dbluspesnost)+'%)';
   Application.ProcessMessages;  
-  if (intBrTacnihOdgovora = 10) and (intBrPitanja = 10) then
-    ShowMessage('Gut gemacht!'+#13#10+'Liebe Jelena I., '+#13#10+'möchtest du mit mir nach dem Deutschkurs ins Cafe gehen? '+#13#10+'Dort können wir einen Kaffee trinken und viel sprechen. Was denkst du? :)');
   Sleep(3000);
   UzmiRec;
   Button3.Enabled := true;
